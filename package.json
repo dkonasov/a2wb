@@ -1,0 +1,28 @@
+{
+  "name": "a2wb",
+  "version": "1.0.0",
+  "description": "Angular 2 web bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitriy Konasov",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "^2.3.0",
+    "@angular/compiler": "^2.3.0",
+    "@angular/core": "^2.3.0",
+    "@angular/platform-browser-dynamic": "^2.3.0",
+    "@types/core-js": "^0.9.35",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.3",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.0-rc.4",
+    "systemjs": "^0.19.41",
+    "typescript": "^2.1.4",
+    "zone.js": "^0.7.2"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0"
+  }
+}
